@@ -1,1 +1,2 @@
 # SQL_DB_Langchain_Query
+I have Integrated Large language models (Google Palm through langchain) and a MySQL database to create an interactive system where users can ask questions about the schema, and the system generates SQL queries to fetch and display relevant data. The inclusion of RAG (Retrieval-Augmented Generation) is an interesting approach for enhancing the question-answering capabilities.
