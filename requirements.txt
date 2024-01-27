@@ -1,0 +1,4 @@
+langchain
+langchain-experimental
+google-generativeai
+pymysql
